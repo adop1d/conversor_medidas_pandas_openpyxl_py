@@ -5,3 +5,9 @@
 ```
 pip install -r readme_requirements.txt
 ```
+
+   Para convertir el Excel de centímetros a pulgadas, ejecute en consola: 
+   
+```
+python programa_conversor.py 
+```
